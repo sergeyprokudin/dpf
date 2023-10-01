@@ -9,18 +9,6 @@ This is an official code for the paper ["Dynamic Point Fields" (ICCV 2023 Oral)]
 
 **In a nutshell**: we propose to model dynamic surfaces with a _**point-based model**_, where the motion of a point over time is represented by an _**implicit deformation field**_. Working directly with points (rather than SDFs) allows us to easily incorporate various well-known deformation constraints, e.g. [as-isometric-as-possible (AIAP)](http://graphics.stanford.edu/~niloy/research/shape_space/shape_space_sig_07.html). We showcase the usefulness of this approach for creating animatable avatars in complex clothing.
 
-<video width="auto" height="100" playsinline loop autoplay muted>
-                    <source src="https://sergeyprokudin.github.io/dpf/dpf_files/teaser.mp4" type="video/mp4">
-                    <style>
-                        video {
-                            height: 100%;
-                            width: 100%;
-                            object-fit: cover; // use "cover" to avoid distortion
-                            position: absolute;
-                        }
-                    </style>
-            </video>
-
 ## Colab Demos
 
 We release our code as a bundle of Colab notebooks covering the main experiments and applications discussed in the paper.

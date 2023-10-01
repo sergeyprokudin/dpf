@@ -11,9 +11,17 @@ This is an official code for the paper ["Dynamic Point Fields" (ICCV 2023 Oral)]
 
 
 
-https://github.com/sergeyprokudin/dpf/assets/8117267/1c6634cf-2a2c-4012-a473-1fae3082f08a
-
-
+<video width="auto" height="100" playsinline loop autoplay muted>
+                  <source src="./dpf_files/teaser.mp4" type="video/mp4">
+                    <style>
+                        video {
+                            height: 100%;
+                            width: 100%;
+                            object-fit: cover; // use "cover" to avoid distortion
+                            position: absolute;
+                        }
+                    </style>
+            </video>
 
 ## Colab Demos
 

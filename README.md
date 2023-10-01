@@ -1,4 +1,4 @@
-# Dynamic Point Fields
+# Dynamic Point Fields (ICCV 2023 Oral Presentation)
 
 ### Towards Efficient and Scalable Dynamic Surface Representations
 

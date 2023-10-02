@@ -23,8 +23,8 @@ We release our code as a bundle of Colab notebooks covering the main experiments
 | Static Surface Reconstruction with Optimised Clouds| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//sergeyprokudin/dpf/blob/main/colab_notebooks/Static_Surface_Optimisation_with_Optimised_Clouds.ipynb)|
 | Surface Registration (with AIAP regularisation) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergeyprokudin/smplpix/blob/main/colab_notebooks/SMPLpix_training.ipynb)|
 | Single Scan Avatar Animation| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergeyprokudin/smplpix/blob/main/colab_notebooks/SMPLpix_training.ipynb)|
-| Loading and Evaluating Original Paper Results (Sections 4.1-4.2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergeyprokudin/smplpix/blob/main/colab_notebooks/SMPLpix_training.ipynb)|
-
+| Loading and Evaluating Original Paper Results (Sections 4.1, Table 1) | TBD |
+| Loading and Evaluating Original Paper Results (Sections 4.2, Table 2) | TBD |
 
 ## Citation
 

@@ -3,9 +3,9 @@
 ### Towards Efficient and Scalable Dynamic Surface Representations
 
 ### [Project Page](https://sergeyprokudin.github.io/dpf/) | [Paper](https://arxiv.org/abs/2304.02626)
-[![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//sergeyprokudin/dpf/blob/main/colab_notebooks/Single_Scan_Animation.ipynb)<br>
+[![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//sergeyprokudin/dpf/blob/main/colab_notebooks/Single_Scan_Animation.ipynb)<br> | [Video](https://www.youtube.com/watch?v=i-9eAgS8HEA)
 
-This is an official code for the paper ["Dynamic Point Fields" (ICCV 2023 Oral)](https://openaccess.thecvf.com/content/ICCV2023/papers/Prokudin_Dynamic_Point_Fields_ICCV_2023_paper.pdf). Please visit [the project page](https://sergeyprokudin.github.io/dpf/) for more details, or watch a [5-minute tutorial video](https://www.youtube.com/watch?v=i-9eAgS8HEA) covering the main ideas behind the approach.
+This is an official code for the paper "Dynamic Point Fields" (ICCV 2023 Oral).
 
 ![figure1_cropped](https://github.com/sergeyprokudin/dpf/assets/8117267/9fb279d9-b518-4cc7-82e6-3ccfd4bee48c)
 

@@ -2,7 +2,7 @@
 
 ### Towards Efficient and Scalable Dynamic Surface Representations
 
-This is an official code for the paper ["Dynamic Point Fields" (ICCV 2023 Oral)](https://arxiv.org/abs/2304.02626). Please visit [the project page](https://sergeyprokudin.github.io/dpf/) for more details, or watch a [5-minute tutorial video](https://www.youtube.com/watch?v=i-9eAgS8HEA) covering the main ideas behind the approach.
+This is an official code for the paper ["Dynamic Point Fields" (ICCV 2023 Oral)](https://openaccess.thecvf.com/content/ICCV2023/papers/Prokudin_Dynamic_Point_Fields_ICCV_2023_paper.pdf). Please visit [the project page](https://sergeyprokudin.github.io/dpf/) for more details, or watch a [5-minute tutorial video](https://www.youtube.com/watch?v=i-9eAgS8HEA) covering the main ideas behind the approach.
 
 ![figure1_cropped](https://github.com/sergeyprokudin/dpf/assets/8117267/006231a6-5c2c-4a27-b492-48758f200852)
 

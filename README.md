@@ -53,6 +53,16 @@ Please pay attention to the preservation of fingers in the deformed cloud when o
 
 https://github.com/sergeyprokudin/dpf/assets/8117267/f9fc75ff-0a19-44b4-bbcd-9378cff3d7b5
 
+## Guided deformation learning & single scan animation [&#128279; code](https://colab.research.google.com/github//sergeyprokudin/dpf/blob/main/colab_notebooks/Single_Scan_Animation.ipynb)
+
+In the case of dynamic humans, we can directly supervise our deformation network with the information on the dynamics of the vertices of the underlying minimally clothed human model :
+
+![image](https://github.com/sergeyprokudin/dpf/assets/8117267/719f925e-64d8-40a1-92f0-10e756536bde)
+
+We showcase the advantages of our approach for animating 3D humans in challenging clothing. Using the introduced isometric and guidance losses to drive the source 3D shape allows to perform a single scan animation. Using this technique, we can repose the canonical scan to highly challenging target poses:
+
+
+https://github.com/sergeyprokudin/dpf/assets/8117267/954caf15-0b47-45a0-93ec-76d8904a6cc8
 
 
 ## Citation

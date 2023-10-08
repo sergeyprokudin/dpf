@@ -42,7 +42,8 @@ Compared to the state-of-the-art implicit models for 3D surface representations 
 
 ## Learning surface deformations [&#128279; code](https://colab.research.google.com/github//sergeyprokudin/dpf/blob/main/colab_notebooks/Learning_Surface_Deformations.ipynb)
 
-![image](https://github.com/sergeyprokudin/dpf/assets/8117267/a6c0dff0-3348-4da0-966d-3642adf664f9)
+<img width="521" alt="image" src="https://github.com/sergeyprokudin/dpf/assets/8117267/e163c355-3f6a-42e2-901d-f610d1663361">
+
 
 The explicit 3D surface formulation allows us to use some classic constraints for learning deformations in 3D space. In this work, we use the as-isometric-as-possible regularisation to guide our learning, which enforces the preservation of distances between points in the canonical and deformed spaces:
 

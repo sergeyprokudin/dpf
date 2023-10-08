@@ -36,9 +36,23 @@ We begin this work by revisiting point clouds as surface modeling primitives, an
 
 ![image](https://github.com/sergeyprokudin/dpf/assets/8117267/07d75b51-90cb-47f8-ba09-96338bbfa05a)
 
-Compared to the state-of-the-art implicit models for 3D surface representations ([NGLOD](https://nv-tlabs.github.io/nglod/), [NGP](https://nvlabs.github.io/instant-ngp/), optimised point cloud model offers better reconstruction quality on all metrics, while taking zero inference time thanks to its explicit nature:
+Compared to the state-of-the-art implicit models for 3D surface representations ([NGLOD](https://nv-tlabs.github.io/nglod/), [NGP](https://nvlabs.github.io/instant-ngp/)), optimised point cloud model offers better reconstruction quality on all metrics, while taking zero inference time thanks to its explicit nature:
 
 ![image](https://github.com/sergeyprokudin/dpf/assets/8117267/da4ab24d-37c7-4462-9b79-9b67f50c6eb1)
+
+## Learning surface deformations [&#128279; code](https://colab.research.google.com/github//sergeyprokudin/dpf/blob/main/colab_notebooks/Learning_Surface_Deformations.ipynb)
+
+![image](https://github.com/sergeyprokudin/dpf/assets/8117267/a6c0dff0-3348-4da0-966d-3642adf664f9)
+
+The explicit 3D surface formulation allows us to use some classic constraints for learning deformations in 3D space. In this work, we use the as-isometric-as-possible regularisation to guide our learning, which enforces the preservation of distances between points in the canonical and deformed spaces:
+
+![image](https://github.com/sergeyprokudin/dpf/assets/8117267/603b8a99-dea3-4d8b-9549-085d7fd6c1ff)
+
+Please pay attention to the preservation of fingers in the deformed cloud when optimising with the isometric loss:
+
+
+https://github.com/sergeyprokudin/dpf/assets/8117267/f9fc75ff-0a19-44b4-bbcd-9378cff3d7b5
+
 
 
 ## Citation

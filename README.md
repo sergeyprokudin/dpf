@@ -71,12 +71,14 @@ https://github.com/sergeyprokudin/dpf/assets/8117267/954caf15-0b47-45a0-93ec-76d
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{prokudin2023dynamic,
-                  title={Dynamic Point Fields},
-                  author={Prokudin, Sergey and Ma, Qianli and Raafat, Maxime and Valentin, Julien and Tang, Siyu},
-                  journal={arXiv preprint arXiv:2304.02626},
-                  year={2023}
-                }
+@inproceedings{prokudin2023dynamic,
+  title = {Dynamic Point Fields},
+  author = {Prokudin, Sergey and Ma, Qianli and Raafat, Maxime and Valentin, Julien and Tang, Siyu},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages = {7964--7976},
+  month = oct,
+  year = {2023}
+}
 ```
 
 ## License

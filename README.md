@@ -84,3 +84,5 @@ If you find our work useful in your research, please consider citing:
 ## License
 
 See the [LICENSE](https://github.com/sergeyprokudin/dpf/blob/main/LICENSE) file.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sergeyprokudin/dpf)
